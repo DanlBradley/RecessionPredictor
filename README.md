@@ -21,6 +21,6 @@ The project is broken up into three main notebooks, in chronological order:
 ## Methods
 
 
-![This is an image](figures/StockSim/png)
+!(figures/StockSim/png)
 
 ## Conclusion
