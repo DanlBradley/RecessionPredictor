@@ -13,14 +13,16 @@ The project is broken up into three main notebooks, in chronological order:
 
 
 ## Overview
-
+The overall goal of the project was to see if we could predict future recessions using reliable, long-term economic metrics. We scoped the problem to ask specifically whether we could predict a recession in the next fiscal quarter.
 
 ## Business Problem
-
+There are many reasons to want to predict a recession
 
 ## Methods
+We considered several different models for this 
 
+![](/figures/ROC.png)
 
-![](/figures/StockSim.png)
+![](/figures/StockSim.png =100x20)
 
 ## Conclusion
