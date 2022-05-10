@@ -1,5 +1,6 @@
 # Recession Predictor - Phase 3 Project
 
+This project has an associated [blog post](https://medium.com/mlearning-ai/forecasting-recessions-with-scikit-learn-df58e1ea695f) published in MLearning.ai
 
 ## Navigating this Repo
 The project is broken up into three main notebooks, in chronological order:
